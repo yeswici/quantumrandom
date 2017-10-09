@@ -24,7 +24,7 @@ Installing
 
 ::
 
-    pip install quantumrandom
+    sudo pip install quantumrandom
 
 Command-line tool
 -----------------
